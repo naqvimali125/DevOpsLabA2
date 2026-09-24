@@ -16,7 +16,7 @@ public class Main {
 
 
             System.out.println("DevOps for Cloud Computing Lab Assignment 2 \n");
-            System.out.println("Name: Syed Muhammad Ali\nRegNo: SP23-BAI-048")
+            System.out.println("Name: Syed Muhammad Ali\nRegNo: SP23-BAI-048");
         }
     }
 }
